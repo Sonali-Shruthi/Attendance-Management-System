@@ -1,4 +1,4 @@
-# Attendance Management System
+# StaffSphere : Attendance Management System
 ## Project Objective
 
 The objective of this project is to provide a centralized platform for employee management and attendance tracking while demonstrating full-stack development skills including authentication, REST API development, database design, role-based authorization, and responsive user interface design.
